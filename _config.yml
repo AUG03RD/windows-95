@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: #https://aug03rd.github.io
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: 팔월삼일
+description: 리크루터의 일상
 google_verification: null
 
 
